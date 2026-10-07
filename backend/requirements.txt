@@ -1,0 +1,11 @@
+chromadb
+fastapi
+groq
+langgraph
+Pillow
+pymupdf
+pytesseract
+python-dotenv
+python-multipart
+sentence-transformers
+uvicorn[standard]
